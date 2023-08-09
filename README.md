@@ -17,5 +17,5 @@ My Tech Stacks
 </h3>
 
 <h3 align="center">
-<img src="https://github.com/shylen07/shylen07/assets/stack-hills.png" alt="stacks"/>
+<img src="https://github.com/shylen07/assets/stack-hills.png" alt="stacks"/>
 </h3>
