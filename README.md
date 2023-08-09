@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="center"> Hi there 👋</h3>
 
-<!--
-**shylen07/shylen07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+I'm Devender, a self-motivated tech enthusiast and full stack web developer.
+</p>
 
-Here are some ideas to get you started:
+<h4 align="center">
+💻 full stack developer <a href="https://github.com/shylen07">@shylen07</a> | 💬 connect <a href="https://www.linkedin.com/in/devender-singh-75976717b/">@Devender</a>
+</h4>
+<p  align="center">
+<a href="https://Devender.netlify.app/">https://Devender.netlify.app</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<h3 align="center">
+My Tech Stacks
+</h3>
+
+<h3 align="center">
+<img src="https://raw.githubusercontent.com/shylen07/shylen07/assets/stack-hills.png" alt="stacks"/>
+</h3>
