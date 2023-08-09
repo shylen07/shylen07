@@ -17,5 +17,5 @@ My Tech Stacks
 </h3>
 
 <h3 align="center">
-<img src="assets/stack-hills.png" alt="stacks"/>
+<img src="assets/Devender Singh.png" alt="stacks"/>
 </h3>
